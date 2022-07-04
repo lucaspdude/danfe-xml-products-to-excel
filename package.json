@@ -1,0 +1,17 @@
+{
+  "name": "xml-read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "proccess": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "json2xls": "^0.1.2",
+    "xml2json": "^0.12.0"
+  }
+}
